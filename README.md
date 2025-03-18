@@ -1,2 +1,2 @@
 # cheese-puzzle
-rubik's cheese
+extract and run with run.bat
