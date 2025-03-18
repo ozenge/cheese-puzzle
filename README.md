@@ -13,6 +13,8 @@ download [release](https://github.com/ozenge/cheese-puzzle/releases/download/v1/
 
 [BQN](https://mlochbaum.github.io/BQN/) with [raylib](https://www.raylib.com).dll
 
+colors: https://sashamaps.net/docs/resources/20-colors/
+
 ## solved state
 
 ![solved state](solved.png)
